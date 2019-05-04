@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\bin\Debug\newtonInterpolation.exe.config
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\bin\Debug\newtonInterpolation.exe
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\bin\Debug\newtonInterpolation.pdb
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.Form1.resources
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.Form2.resources
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.Properties.Resources.resources
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.exe
+C:\Users\User\source\repos\newtonInterpolation\newtonInterpolation\obj\Debug\newtonInterpolation.pdb
