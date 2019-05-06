@@ -62,7 +62,7 @@
             this.Controls.Add(this.button1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Main Menu";
             this.ResumeLayout(false);
             this.PerformLayout();
 
